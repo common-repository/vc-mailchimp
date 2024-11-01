@@ -1,0 +1,322 @@
+# Copyright (C) 2018 VC MailChimp
+# This file is distributed under the same license as the VC MailChimp package.
+msgid ""
+msgstr ""
+"Project-Id-Version: VC MailChimp\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: vc-mailchimp-premium/index.php:43, vc-mailchimp-premium/index.php:43, vc-mailchimp-premium/index.php:51, vc-mailchimp-premium/index.php:165, vc-mailchimp-premium/index.php:328, vc-mailchimp-premium/index.php:369, vc-mailchimp-premium/index.php:399, vc-mailchimp-premium/index.php:471
+msgid "VC MailChimp"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:54
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:57
+msgid "Reviews"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:59
+msgid "Changelogs"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:61
+msgid "Discussion"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:67, vc-mailchimp-premium/index.php:109
+msgid "How to use?"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:69, vc-mailchimp-premium/index.php:110
+msgid "Support"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:75
+msgid "Please follow these steps to add MailChimp to a page (screenshots will be opened in the new tab)"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:78
+msgid "Add \"MailChimp Form\" element first"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:80
+msgid "Fill the API key then press \"Get lists\""
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:82
+msgid "Choose the list you want"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:85
+msgid "Choose the style and customize messages"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:87
+msgid "Add other elements to this form (eg. MailChimp Name, MailChimp Email, MailChimp Field)"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:90
+msgid "Add \"MailChimp Submit\" element to finish the form"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:164
+msgid "VC MailChimp Form"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:176
+msgid "MailChimp API key"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:177
+msgid "Please fill the MailChimp API key then press Get lists and choose one list."
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:182
+msgid "Skip confirm"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:183
+msgid "If enable, user do not need to confirm via email when subscribed."
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:188
+msgid "Style"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:189
+msgid "Choose a preset color for the form elements."
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:194
+msgid "Style 01"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:198
+msgid "Style 02"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:202
+msgid "Style 03"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:206
+msgid "Style 04"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:210
+msgid "Style 05"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:214
+msgid "Style 06"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:218
+msgid "Style 07"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:222
+msgid "Style 08"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:226
+msgid "Style 09"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:230
+msgid "Style 10"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:234
+msgid "Custom"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:241
+msgid "Extra class name"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:243
+msgid "Style particular content element differently."
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:247
+msgid "Position"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:248, vc-mailchimp-premium/index.php:264, vc-mailchimp-premium/index.php:272, vc-mailchimp-premium/index.php:280, vc-mailchimp-premium/index.php:288, vc-mailchimp-premium/index.php:296, vc-mailchimp-premium/index.php:304, vc-mailchimp-premium/index.php:312
+msgid "Messages"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:252
+msgid "Top Left"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:253
+msgid "Top Right"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:254
+msgid "Bottom Left"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:255
+msgid "Bottom Right"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:261
+msgid "Successfully subscribed"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:269
+msgid "Successfully subscribed (Skip confirm)"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:277
+msgid "Already subscribed"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:285
+msgid "Email field missing"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:293
+msgid "Invalid email address"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:301
+msgid "Required field missing"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:309
+msgid "General error"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:317
+msgid "CSS"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:319
+msgid "Design Options"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:327
+msgid "VC MailChimp Name"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:335, vc-mailchimp-premium/index.php:413
+msgid "Type"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:336
+msgid "Choose first name or last name for this field."
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:340
+msgid "Last name"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:341
+msgid "First name"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:346, vc-mailchimp-premium/index.php:376, vc-mailchimp-premium/index.php:448
+msgid "Label"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:352, vc-mailchimp-premium/index.php:382, vc-mailchimp-premium/index.php:454
+msgid "Place holder"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:358, vc-mailchimp-premium/index.php:388, vc-mailchimp-premium/index.php:460
+msgid "Initial value"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:368
+msgid "VC MailChimp Email"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:398
+msgid "VC MailChimp Field"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:406
+msgid "Field tag"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:407
+msgid "This value must same with the tag in MailChimp config ( http://prntscr.com/ef01qr )"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:417
+msgid "Text"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:418
+msgid "Number"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:419
+msgid "Email"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:420
+msgid "Tel"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:421
+msgid "Checkbox"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:422
+msgid "Dropdown"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:423
+msgid "Radio"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:424
+msgid "Password"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:425
+msgid "Hidden"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:430
+msgid "Values"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:431
+msgid "Add value for checkbox or dropdown field."
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:440
+msgid "Value"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:470
+msgid "VC MailChimp Submit"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:478
+msgid "Button text"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:480, vc-mailchimp-premium/index.php:651
+msgid "Subscribe"
+msgstr ""
+
+#: vc-mailchimp-premium/index.php:491, vc-mailchimp-premium/index.php:532
+msgid "Permissions check failed"
+msgstr ""
